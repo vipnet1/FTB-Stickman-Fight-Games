@@ -5,7 +5,7 @@ Indeed not open source, but I guess should mention it's existence :)
 Without doubt the biggest project I created. From animation tests via Photoshop & Unity in android lessons in school somewhere in 2021 to a published game on play store with 10k+ downloads.  
 It was an interesting journey.
 
-I learned animation, drawing, creating sounds, designing UI, thinking like the customer, marketing, monetization systems and much more.
+I learned animation, drawing, creating sounds, designing UI, thinking like the customer, marketing, monetization systems, working with other talented people and much more.
 
 The final result is a game that I enjoyed playing with friends & family and we had a lot of fun.  
 So if you are for some reason in mine github, check it out :)  
