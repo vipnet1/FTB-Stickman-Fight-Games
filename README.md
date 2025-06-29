@@ -1,17 +1,17 @@
 # FTB-Stickman-Fight-Games
 Online stick fight games! Fight PvP stickman battles in the battle arena!
 
-Indeed not open source, but I guess should mention it's existence :)
-Without doubt the biggest project I created on. From animation tests via Photoshop & Unity in android lessons in school somewhere in 2021 to published game on play store with 10k+ dowwnloads.
+Indeed not open source, but I guess should mention it's existence :)  
+Without doubt the biggest project I created on. From animation tests via Photoshop & Unity in android lessons in school somewhere in 2021 to published game on play store with 10k+ dowwnloads.  
 It was an interesting journey.
 
 I learned animation, drawing, creating sounds, designing UI, thinking like the customer, marketing, monetization systems and much more.
 
-The final result is a game that I enjoyed playing with friends & family and we had a lot of fun.
-So if you are for some reason in mine github, check it out :)
+The final result is a game that I enjoyed playing with friends & family and we had a lot of fun.  
+So if you are for some reason in mine github, check it out :)  
 Copy pasting long description from play store:
 
-Welcome to For The Battle
+Welcome to For The Battle  
 FTB offers a comprehensive stickman fighting experience, featuring:
 - Stickman fight online game. Deathmatch vs stick figures of other players.
 - Multiplayer 2d platformer games with other stickmen, your friends or AI.
@@ -33,10 +33,10 @@ Personalize your stickman fighter
 
 Better together! Invite your friends, form your stickmen gang, and decide: Will you fight each other for glory or combine powers to dominate the arena?
 
-Links:
-Play Store: https://play.google.com/store/apps/details?id=com.VippyGames.ForTheBattle
-Homepage: https://vippy.games/ftb/
-Facebook: https://www.facebook.com/VippyGames
-Discord: https://discord.com/invite/u4nQEq9MWr
-Youtube: https://www.youtube.com/channel/UCVrVe4UqPukz2yYUTCmv-wA
+Links:  
+Play Store: https://play.google.com/store/apps/details?id=com.VippyGames.ForTheBattle  
+Homepage: https://vippy.games/ftb/  
+Facebook: https://www.facebook.com/VippyGames  
+Discord: https://discord.com/invite/u4nQEq9MWr  
+Youtube: https://www.youtube.com/channel/UCVrVe4UqPukz2yYUTCmv-wA  
 
