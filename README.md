@@ -2,7 +2,7 @@
 Online stick fight games! Fight PvP stickman battles in the battle arena!
 
 Indeed not open source, but I guess should mention it's existence :)  
-Without doubt the biggest project I created. From animation tests via Photoshop & Unity in android lessons in school somewhere in 2021 to a published game on play store with 10k+ downloads.  
+Without doubt the biggest project I created. From animation tests via Photoshop & Unity in android lessons in school somewhere in 2020 to a published game on play store with 10k+ downloads.  
 It was an interesting journey.
 
 I learned animation, drawing, creating sounds, designing UI, thinking like the customer, marketing, monetization systems, working with other talented people and much more.
